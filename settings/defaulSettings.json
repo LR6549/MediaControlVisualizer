@@ -1,0 +1,24 @@
+{
+    "frameLimit":60,
+    "framesIdle":15,
+    "showFramerate":true,
+    "fullscreen":false,
+    "display":{
+        "title":true,
+        "artist":true,
+        "album":true,
+        "duration":true
+    },
+    "fontSizes":{
+        "title":48,
+        "artist":36,
+        "album":28,
+        "duration":32
+    },
+    "textPositionsY":{
+        "title":450.0,
+        "artist":498.0,
+        "album":536.0,
+        "duration":562.0
+    }
+}
